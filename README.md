@@ -13,6 +13,7 @@
 [功能特性](#功能特性) • [快速开始](#快速开始) • [使用指南](#使用指南) • [常见问题](#常见问题)
 
 </div>
+<img width="2276" height="1068" alt="image" src="https://github.com/user-attachments/assets/a83cc81e-8bcc-4cb0-bef3-074f049a0405" />
 
 ---
 
@@ -80,6 +81,8 @@ RESULTS_DIR = r"你的结果保存路径\results"
 ```
 
 5. **启动系统**
+
+配置.env
 
 ```bash
 streamlit run app.py
