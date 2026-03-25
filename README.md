@@ -43,7 +43,7 @@
 ### 环境要求
 
 - **Python**: 3.10
-- **操作系统**: Windows / Linux / macOS
+- **操作系统**: Windows
 - **OpenFAST**: 4.2.1 或更高版本（需单独安装）
 
 ### 安装步骤
@@ -61,10 +61,6 @@ cd SimulationSystem_OPENFAST/v8_release
 # Windows
 conda create -n SimulationSystem_OPENFAST python==3.10
 conda activate SimulationSystem_OPENFAST
-
-# Linux/macOS
-python3 -m venv venv
-source venv/bin/activate
 ```
 
 3. **安装依赖**
