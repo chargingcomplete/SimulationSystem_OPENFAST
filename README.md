@@ -52,8 +52,8 @@
 1. **克隆项目**
 
 ```bash
-git clone https://github.com/yourusername/SimulationSystem_OPENFAST.git
-cd SimulationSystem_OPENFAST/v8_release
+git clone https://github.com/chargingcomplete/SimulationSystem_OPENFAST.git
+cd SimulationSystem_OPENFAST
 ```
 
 2. **创建虚拟环境**（推荐）
