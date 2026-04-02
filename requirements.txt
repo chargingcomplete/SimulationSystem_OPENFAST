@@ -92,7 +92,7 @@ openai==2.29.0
 orjson==3.11.7
 ormsgpack==1.12.2
 overrides==7.7.0
-packaging @ file:///C:/miniconda3/conda-bld/packaging_1761049101700/work
+packaging
 pandas==2.3.3
 pandocfilters==1.5.1
 panel==1.8.10
